@@ -7,7 +7,7 @@ My Mailchimp list, also known as your audience, is where you store and manage al
 
 
 
-#Command Prompt
+# Command Prompt
 
 We can see here the new Audience has added to my list.
 
